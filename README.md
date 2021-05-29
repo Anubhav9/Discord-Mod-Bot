@@ -8,3 +8,5 @@ I never have been a fan of no-coding platforms. But Google I/O 2021 changed my p
 This project was motivated from Dale's Video on Youtube (https://www.youtube.com/watch?v=ABr_HkO0eGk&t=245s) (Making with ML Playlist), however, her implementation was a Javascript one, while, the one I made runs on Python. There are a few additional changes as well, however, they are nothing out of the blue.
 
 Attaching a SS for better Details
+
+![Discord Bot Screenshot](https://github.com/Anubhav9/Discord-Mod-Bot/blob/main/discord.png)
