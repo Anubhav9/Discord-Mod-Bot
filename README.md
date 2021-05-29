@@ -10,3 +10,11 @@ This project was motivated from Dale's Video on Youtube (https://www.youtube.com
 Attaching a SS for better Details
 
 ![Discord Bot Screenshot](https://github.com/Anubhav9/Discord-Mod-Bot/blob/main/discord.png)
+
+
+## Steps to Replicate the same
+
+The instructions to set up Perspective API & GCP is very well explained in Dale's Video, so, I will suggest, you have a look at the video once. Once done, come back to this repository, download the source code (a single .py file), add your API key in the code and get started.
+
+
+If you like this reposity, don't forget to star it.
